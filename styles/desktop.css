@@ -1,0 +1,19 @@
+
+.nav__list {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: brown;
+    padding: 5px;
+}
+
+.element {
+    width: 25vw;
+}
+
+.nav__element-offer:hover .offer__list {
+    position: absolute;
+}
+
+.hamburger {
+    display: none;
+}
