@@ -6,6 +6,10 @@
     padding: 5px;
 }
 
+.nav__switcher:checked + .nav__list {
+    display: flex;
+}
+
 .element {
     width: 25vw;
 }
